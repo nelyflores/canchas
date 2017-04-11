@@ -1,0 +1,59 @@
+h1{
+  text-align: center;
+}
+
+.mediaCancha {
+     width: 400px;
+     height: 447px;
+     margin-left: 260px;
+     border: 3px solid #FFF;
+     background: green;
+}
+
+.mediaCancha:nth-of-type(2) {
+     margin-left: 663px;
+     margin-top: -453px;
+}
+.areaChica {
+     width: 120px;
+     height: 260px;
+     margin-top: 100px;
+     margin-left: -2px;
+     border: 3px solid #FFF;
+     background: green;
+}
+
+.mediaCancha:nth-of-type(2) > .areaChica{
+     margin-left: 276px;
+}
+
+.circuloArea{
+  width: 50px;
+  height: 100px;
+  border: 2px solid #FFF;
+  background: green;
+  margin-top: -180px;
+  margin-left: 122px;
+  border-radius: 0 100px 100px 0;
+}
+
+
+.mediaCancha:nth-of-type(2) > .circuloArea{
+     margin-left: 224px;
+     border-radius: 100px 0 0 100px;
+}
+
+.circuloMedio{
+  width: 50px;
+  height: 100px;
+  margin-left: 350px;
+  margin-top: -103px;
+  border-radius: 100px 0 0 100px;
+  border: 2px solid #FFF;
+}
+
+.mediaCancha:nth-of-type(2) > .circuloMedio{
+     margin-left: -3px;
+     border-radius: 0 100px 100px 0;
+}
+Add Comment Co

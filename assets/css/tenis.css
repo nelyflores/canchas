@@ -1,0 +1,84 @@
+h1 {
+  text-align: center;
+}
+.contenedor {
+  width: 600px;
+  height: 404px;
+  border: 1px solid black;
+  background-color: green;
+  float: left;
+  margin-left: 350px;
+}
+.rec1 {
+   width: 300px;
+   height: 50px;
+   border: 1px solid #fff;
+   background: green;
+   float: left;
+}
+.rec2{
+     width: 296px;
+     height: 50px;
+     border: 1px solid #fff;
+     background: green;
+     float: right;
+}
+.rec3 {
+     width: 119px;
+     height: 300px;
+     border: 1px solid #fff;
+     background: green;
+     float: left;
+}
+.rec4 {
+     width: 115px;
+     height: 300px;
+     border: 1px solid #fff;
+     background: green;
+     float: right;
+}
+.rec5 {
+     width: 179px;
+     height: 150px;
+     border: 1px solid #fff;
+     background: green;
+     float: right;
+}
+.rec6 {
+     width: 179px;
+     height: 150px;
+     border: 1px solid #fff;
+     background: green;
+     float: right;
+}
+.rec7 {
+     width: 179px;
+     height: 148px;
+     border: 1px solid #fff;
+     background: green;
+     float: right;
+     margin: 0 auto;
+}
+.rec8 {
+     width: 179px;
+     height: 148px;
+     border: 1px solid #fff;
+     background: green;
+     float: right;
+     margin: 0 auto;
+}
+.rec9 {
+     width: 300px;
+     height: 50px;
+     border: 1px solid #fff;
+     background: green;
+     float: left;
+}
+.rec10 {
+     width: 296px;
+     height: 50px;
+     border: 1px solid #fff;
+     background: green;
+     float: right;
+     margin: 0 auto;
+}
